@@ -1,0 +1,229 @@
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+main {
+    background-color: #171717;
+    height: 10%;
+    margin: 0;
+}
+
+.search {
+    margin: 0;
+    position: relative;
+    left: 70%;
+    bottom: 55px;
+}
+
+.logo {
+    right: 33%;
+    margin: 0;
+    padding-left: 20%;
+}
+
+header {
+    background-color: #444444;
+    height: 100%;
+    width: 100%;
+}
+
+.pecas {
+    margin: 0;
+    padding-left: 32%;
+    position: relative;
+    bottom: 130px;
+}
+
+.opt ul li {
+    margin: 0;
+    color: #EDEDED;
+    display: inline-block;
+    position: relative;
+    left: 55%;
+    bottom: 120px;
+}
+
+.opt ul li a {
+    color: #EDEDED;
+    text-decoration: none;
+    font-size: 18px;
+    text-transform: uppercase;
+    margin-left: 20px;
+    position: relative;
+}
+
+.opt ul {
+    margin: 0;
+}
+
+.opt ul li a:hover {
+    color: #DA0037;
+}
+
+button.slick-prev {
+    font-size: 0;
+    border: none;
+    width: 40px;
+    height: 60px;
+    background-color: transparent;
+    background-image: url('../img/larrowpng.png');
+    position: absolute;
+    z-index: 9;
+    top: 43%;
+}
+
+button.slick-next {
+    font-size: 0;
+    border: none;
+    width: 40px;
+    height: 60px;
+    background-color: transparent;
+    background-image: url('../img/rarrowpng.png');
+    position: absolute;
+    z-index: 9;
+    top: 43%;
+    left: 1385px;
+}
+
+.slider {
+    position: relative;
+    bottom: 220px;
+    width: 100%;
+}
+
+.one {
+    margin: 5px;
+}
+
+.two {
+    margin: 5px;
+}
+
+.three {
+    margin: 5px;
+}
+
+.four {
+    margin: 5px;
+}
+
+.five {
+    margin: 5px;
+}
+
+.six {
+    margin: 5px;
+}
+
+.slick-initialized {
+    overflow: hidden;
+}
+
+.slick-dots {
+    margin: 0 auto;
+    width: 50%;
+    position: relative;
+    left: 18%;
+}
+
+.slick-dots li button {
+    font-size: 0px;
+    border: 2px solid #EDEDED;
+    width: 15px;
+    height: 15px;
+    background-color: #EDEDED;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.slick-dots li {
+    display: inline-block;
+    padding-left: 5px;
+}
+
+li.slick-active button {
+    background-color: #DA0037;
+}
+
+.about_faq {
+    background-color: #73777B;
+    height: 2000px;
+    width: 100%;
+}
+
+.sobress {
+    position: relative;
+    padding-left: 32%;
+    width: 500px;
+}
+
+.oquess {
+    position: relative;
+    padding-left: 24%;
+    bottom: 260px;
+}
+
+.duvida {
+    bottom: 300px;
+    position: relative;
+    padding-left: 32%;
+    width: 500px;
+}
+
+.faq1 {
+    bottom: 400px;
+    position: relative;
+    padding-left: 15%;
+    width: 500px;
+}
+
+.faq2 {
+    bottom: 900px;
+    position: relative;
+    padding-left: 55%;
+    width: 500px;
+}
+
+.contatss {
+    background-color: #DFDFDE;
+    height: 100%;
+    width: 100%;
+}
+
+.contact {
+    position: relative;
+    padding-left: 39%;
+    width: 300px;
+    height: 300px;
+}
+
+.images {
+    display: flex;
+    padding-left: 19%;
+}
+
+.insta {
+    width: 100%;
+    flex: 30%;
+    padding: 5px;
+}
+
+.tt {
+    width: 100%;
+    flex: 30%;
+    padding: 5px;
+}
+
+.tik {
+    width: 100%;
+    flex: 30%;
+    padding: 5px;
+}
+
+.wpp {
+    width: 100%;
+    flex: 30%;
+    padding: 5px;
+}
