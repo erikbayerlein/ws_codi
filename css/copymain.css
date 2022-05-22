@@ -161,7 +161,7 @@ li.slick-active button {
 
 .oquess {
     position: relative;
-    padding-left: 20%;
+    padding-left: 18%;
     bottom: 260px;
 }
 
@@ -176,14 +176,16 @@ li.slick-active button {
     bottom: 400px;
     position: relative;
     padding-left: 10%;
-    width: 500px;
+    width: 300px;
+    height: 300px;
 }
 
 .faq2 {
     bottom: 900px;
     position: relative;
     padding-left: 45%;
-    width: 500px;
+    width: 300px;
+    height: 300px;
 }
 
 .contatss {
@@ -201,7 +203,7 @@ li.slick-active button {
 
 .images {
     display: flex;
-    padding-left: 14%;
+    padding-left: 10%;
 }
 
 .insta {
