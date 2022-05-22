@@ -175,17 +175,17 @@ li.slick-active button {
 .faq1 {
     bottom: 400px;
     position: relative;
-    padding-left: 20px;
-    width: 300px;
-    height: 300px;
+    padding-left: 20%;
+    width: 250px;
+    height: 250px;
 }
 
 .faq2 {
-    bottom: 900px;
+    bottom: 650px;
     position: relative;
-    padding-left: 300px;
-    width: 300px;
-    height: 300px;
+    padding-left: 55%;
+    width: 250px;
+    height: 250px;
 }
 
 .contatss {
