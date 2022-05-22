@@ -31,7 +31,7 @@ header {
 
 .pecas {
     margin: 0;
-    padding-left: 32%;
+    padding-left: 28%;
     position: relative;
     bottom: 130px;
 }
@@ -155,34 +155,34 @@ li.slick-active button {
 
 .sobress {
     position: relative;
-    padding-left: 32%;
+    padding-left: 28%;
     width: 500px;
 }
 
 .oquess {
     position: relative;
-    padding-left: 24%;
+    padding-left: 20%;
     bottom: 260px;
 }
 
 .duvida {
     bottom: 300px;
     position: relative;
-    padding-left: 32%;
+    padding-left: 28%;
     width: 500px;
 }
 
 .faq1 {
     bottom: 400px;
     position: relative;
-    padding-left: 15%;
+    padding-left: 10%;
     width: 500px;
 }
 
 .faq2 {
     bottom: 900px;
     position: relative;
-    padding-left: 55%;
+    padding-left: 45%;
     width: 500px;
 }
 
@@ -201,13 +201,13 @@ li.slick-active button {
 
 .images {
     display: flex;
-    padding-left: 19%;
+    padding-left: 14%;
 }
 
 .insta {
     width: 100%;
     flex: 30%;
-    padding: 5px;
+    padding: 3px;
 }
 
 .tt {
