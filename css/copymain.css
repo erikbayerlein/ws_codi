@@ -161,7 +161,7 @@ li.slick-active button {
 
 .oquess {
     position: relative;
-    padding-left: 18%;
+    padding-left: 13%;
     bottom: 260px;
 }
 
@@ -175,7 +175,7 @@ li.slick-active button {
 .faq1 {
     bottom: 400px;
     position: relative;
-    padding-left: 10%;
+    padding-left: 5%;
     width: 300px;
     height: 300px;
 }
@@ -183,7 +183,7 @@ li.slick-active button {
 .faq2 {
     bottom: 900px;
     position: relative;
-    padding-left: 45%;
+    padding-left: 60%;
     width: 300px;
     height: 300px;
 }
